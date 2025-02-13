@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egysegteszt_LakatosBotond", "Egysegteszt_LakatosBotond\Egysegteszt_LakatosBotond.csproj", "{1494B734-6CD9-4CAC-B8A1-2B7BD389A147}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0FD9437B-1917-4A58-A2DC-D7BA5F5EF039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleAreaTest", "RectangleAreaTest\RectangleAreaTest.csproj", "{C120B6BC-CC43-454F-BC4A-4BD0FEC18CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1494B734-6CD9-4CAC-B8A1-2B7BD389A147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1494B734-6CD9-4CAC-B8A1-2B7BD389A147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1494B734-6CD9-4CAC-B8A1-2B7BD389A147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1494B734-6CD9-4CAC-B8A1-2B7BD389A147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C120B6BC-CC43-454F-BC4A-4BD0FEC18CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C120B6BC-CC43-454F-BC4A-4BD0FEC18CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C120B6BC-CC43-454F-BC4A-4BD0FEC18CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C120B6BC-CC43-454F-BC4A-4BD0FEC18CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B4672DD-DB8C-46F5-8FCF-A9C000B5A705}
+	EndGlobalSection
+EndGlobal
